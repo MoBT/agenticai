@@ -1,2 +1,13 @@
 # agenticai
 This project is designed to support students in learning the principles and practical implementation of agentic AI systems using multiple platforms, frameworks, and development environments.
+
+About the Instructor
+
+Hi! I’m Mohammad Bany Taha, a associate professor and AI practitioner passionate about helping students learn how to build agentic AI systems from the ground up.
+
+I created this repository to support learners in understanding the fundamentals and advanced techniques of building autonomous agents using different platforms, tools, and real-world environments.
+
+If you have questions or feedback, feel free to reach out — I’m always happy to help students grow!
+
+📧 Email: [mbanytaha@gmail.com]
+🔗 LinkedIn: https://www.linkedin.com/in/banitaha/
