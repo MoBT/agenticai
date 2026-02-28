@@ -1,4 +1,9 @@
 # agenticai
+
+
+![images](https://github.com/user-attachments/assets/ce525bed-001b-4b98-a159-adbce7cf61bb)
+
+
 This project is designed to support students in learning the principles and practical implementation of agentic AI systems using multiple platforms, frameworks, and development environments.
 
 About the Instructor
